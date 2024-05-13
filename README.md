@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently Learning NEXT.js
-- Trying to get full profficiency on React.js
+- 🔭 I’m currently working on [ReactJS](https://react.dev/) stack
+- 🌱 I’m currently Learning [NEXT.js](https://nextjs.org/)
+- 📌 Trying to get full Control on <b>MERN
 
