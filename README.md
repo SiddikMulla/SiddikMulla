@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning [NEXTjs](https://nextjs.org/)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sidmm747)
 
 - 💬 Ask me about [ReactJs](https://react.dev)
 
