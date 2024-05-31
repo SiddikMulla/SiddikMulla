@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddikMulla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
   
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddik-mulla-214a33258) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidmm747) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__Sid.m)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__sid_m) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/siddik-mulla)
 
 </div>
