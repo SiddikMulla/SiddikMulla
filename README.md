@@ -4,7 +4,7 @@
   <div style="display: inline-block; vertical-align: top;">
     <h3>🔭 I’m currently working on <i>eCommerce-Site</i></h3>
     <h3>🌱 I’m currently learning <a href="https://nextjs.org/">NEXT.js</a></h3>
-    <h3>📝 I regularly write articles on <a href="https://medium.com/@sidmm747">Medium</a></h3>
+    <h3>📝 Read my articles on <a href="https://medium.com/@sidmm747">Medium</a></h3>
     <h3>💬 Ask me about <a href="https://react.dev">React.js</a></h3>
     <h3>📫 How to reach me <a href="mailto:sidmm747@gmail.com">sidmm747@gmail.com</a></h3>
     <h3>⚡ Fun fact: I think I have a good sense of humor</h3>
