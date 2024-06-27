@@ -4,10 +4,8 @@
     <h3>🌱 I’m currently learning <a href="https://nextjs.org/">NEXT.js</a></h3>
     <h3>📝 Read my articles on <a href="https://medium.com/@sidmm747">Medium</a></h3>
     <h3>💬 Ask me about <a href="https://react.dev">React.js</a></h3>
-    <h3>📫 How to reach me <a href="mailto:sidmm747@gmail.com">sidmm747@gmail.com</a></h3>
     <h3>⚡ Fun fact: I think I have a good sense of humor</h3>
   </div>
-
   <div style="display: inline-block; vertical-align: top;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddikMulla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
