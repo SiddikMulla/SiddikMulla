@@ -3,7 +3,7 @@
   <div style="display: inline-block; vertical-align: top;">
     <h3>🌱 I'm diving into <a href="https://nextjs.org/" target="_blank">NEXT.js</a></h3>
     <h3>💬 Let's talk about <a href="https://react.dev" target="_blank">React.js</a></h3>
-    <h3>🌟 Also exploring <a href='https://vuejs.org/' target="_blank">Vue.js</a>!</h3>
+    <h3>🌟 Also exploring <a href='https://expo.dev/' target="_blank">React-Native</a>!</h3>
        <h3>📝 Check out my articles on <a href="https://medium.com/@sidmm747" target="_blank">Medium</a></h3>
   </div>
 </div>
