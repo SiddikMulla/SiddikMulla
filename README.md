@@ -2,7 +2,7 @@
 a software Engineer
 
 - 🌱 Working with [Next.js](https://nextjs.org/)
-- 🛠️ Building backend services with [Node.js](https://nodejs.org/) and [Django](https://www.djangoproject.com/)
+- 🛠️ Building backend services with [Node.js](https://nodejs.org/)
 - 🌟 Exploring mobile development with [React Native](https://expo.dev/)
 - 🤖 Integrating AI into real-world software solutions
 
