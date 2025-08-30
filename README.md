@@ -3,3 +3,4 @@
 - 🌱 Working with [Next.js](https://nextjs.org/)
 - 🌟 Exploring mobile development with [React Native](https://expo.dev/)
 - 🤖 Integrating AI into real-world software solutions
+- 📬 Find me at [linkedin](https://www.linkedin.com/in/siddik-m)
