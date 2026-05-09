@@ -1,6 +1,10 @@
 ### Hi, I'm Siddik 👋
-- 🛠️ Building backend services with [Node.js](https://nodejs.org/)
-- 🌱 Working with [Next.js](https://nextjs.org/) | [React.js](https://react.dev/) | [Vue.js](https://vuejs.org/) | [Nuxt.js](https://nuxt.com/)
-- 🌟 Exploring mobile development with [React Native](https://expo.dev/)
-- 🤖 Integrating AI into real-world software solutions
-- 📬 Find me at [linkedin](https://www.linkedin.com/in/siddik-m)
+
+Backend engineer focused on scalable systems, AI-powered applications, and modern web architecture.
+
+- ⚙️ Building APIs, microservices & distributed systems with Node.js, FastAPI & TypeScript
+- 🧠 Creating GenAI applications using LLMs, RAG, vector databases, AI agents & automation workflows
+- 🚀 Developing modern frontends with Next.js, React.js, Vue.js & Nuxt.js
+- ☁️ Working with Docker, Linux, CI/CD, cloud deployments & scalable architectures
+- 🔬 Interested in AI engineering, system design & performance-focused software
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/siddik-m)
