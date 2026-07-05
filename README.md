@@ -7,4 +7,4 @@ Backend engineer focused on scalable systems, AI-powered applications, and moder
 - 🚀 Developing modern frontends with Next.js, React.js, Vue.js & Nuxt.js
 - ☁️ Working with Docker, Linux, CI/CD, cloud deployments & scalable architectures
 - 🔬 Interested in AI engineering, system design & performance-focused software
-- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/siddik-m)
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/siddikmulla)
