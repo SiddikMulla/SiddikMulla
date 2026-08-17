@@ -1,15 +1,25 @@
 # Siddik Mulla
 
-Backend engineer. Distributed systems, fintech infrastructure, and AI-integrated backends — Node.js, TypeScript, Python.
+**Software engineer building distributed systems, fintech infrastructure & AI-powered backends.**
 
-Currently building multi-tenant payment platforms at Paygasus.
+`Node.js` · `TypeScript` · `Python` · `Distributed Systems` · `Fintech` · `AI`
 
-**[siddik.tech](https://siddik.tech)** · **[blog.siddik.tech](https://blog.siddik.tech)** · [LinkedIn](https://www.linkedin.com/in/siddikmulla/) · [Medium](https://medium.com/@sidmm747) · [Peerlist](https://peerlist.io/siddik_m/) · [X](https://x.com/__sid_m)
+### Currently
 
-### Selected work
+```text
+Building systems.
+Breaking bugs.
+Learning constantly.
+Keeping the web friendly.🕸️
+```
 
-| | |
-|---|---|
-| [Aqlyn](https://aqlyn.site) | AI-native organizational productivity platform |
-| [SYNTHik](https://synthik.siddik.tech) | Full-stack AI chatbot — LLaMA 3.1 via Ollama |
-| [DocuChat](https://chat.siddik.tech) | RAG-based PDF document analysis |
+**[siddik.tech](https://siddik.tech)** · **[Blog](https://blog.siddik.tech)** · **[LinkedIn](https://www.linkedin.com/in/siddikmulla/)** · **[X](https://x.com/__sid_m)**
+
+### Selected Work
+
+- **[Aqlyn](https://aqlyn.site)** - AI-native productivity platform
+- **[SYNTHik](https://synthik.siddik.tech)** - LLaMA 3.1 AI chatbot
+- **[DocuChat](https://chat.siddik.tech)** - RAG-powered document analysis
+
+> *With great power comes great responsibility.*  
+> I just happen to apply that principle to production systems.
